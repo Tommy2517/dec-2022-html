@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fb137e0-fffb-476f-a7f2-b577716337aa" name="Changes" comment="create new project and accept homework&#10;add css and little refactoring on ....pages">
-      <change afterPath="$PROJECT_DIR$/lesson1/bart/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/homer/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/lisa/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/bart/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/bart/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/homer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/homer/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/lisa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/lisa/index.html" afterDir="false" />
@@ -84,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673994220008</updated>
-      <workItem from="1673994221089" duration="4829000" />
+      <workItem from="1673994221089" duration="5881000" />
     </task>
     <task id="LOCAL-00001" summary="create new project and accept homework">
       <created>1673998597749</created>
@@ -93,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673998597749</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create new project and accept homework&#10;add css and little refactoring on ....pages">
+      <created>1673999100355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673999100355</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create new project and accept homework&#10;add css and little refactoring on ....pages">
+      <created>1673999113598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673999113598</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
