@@ -3,12 +3,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-
+    flex-direction: column;
     font-family: 'Source Sans Pro', sans-serif;
 }
 h1 {
     margin-top: 82px;
     font-size: 23px;
+}
+a {
+    color: coral;
 }
 p {
     font-weight: normal;
