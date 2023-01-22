@@ -1,0 +1,54 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: lighter;
+    display: flex;
+    justify-content: center;
+}
+.header {
+    width: 500px;
+    height: 200px;
+
+    background: #2268bb;
+    color: #fff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 32px;
+}
+.section {
+    width: 500px;
+    height: 200px;
+
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+
+    font-size: 16px;
+}
+.item {
+    height: 200px;
+    width: 30%;
+    display: flex;
+
+    background: #16447AFF;
+    color: #ffffff;
+
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.footer {
+    width: 500px;
+    height: 400px;
+
+    background: #2268bb;
+    color: #fff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 32px;
+}
