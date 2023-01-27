@@ -4,14 +4,17 @@ body {
     justify-content: center;
     align-items: center;
 }
+.main{
+    width: 1200px;
+
+}
 .menu {
-    max-width: 1200px;
-    min-width: 600px;
-    height: 200px;
+    width: 100%;
     border: 1px solid #333;
 
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
     align-items: center;
 }
 .home_work{

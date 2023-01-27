@@ -1,0 +1,109 @@
+/*---------------------------------------------*/
+/*Sizes*/
+.w100pr {
+    width: 100%;
+}
+.w560 {
+    width: 560px;
+}
+.w100 {
+    width: 100px;
+}
+.h400 {
+     height: 400px;
+ }
+.h100 {
+    height: 100px;
+}
+.h70 {
+    height: 70px;
+}
+.h50 {
+    height: 50px;
+}
+.h30{
+    height: 30px;
+}
+.br5 {
+    border-radius: 5px;
+}
+/*Sizes*/
+/*---------------------------------------------*/
+/*Colors*/
+.bgc_gray {
+    background: #ccd6e0;
+}
+.bgc_blue {
+    background: #102b3f;
+}
+.bgc_purple {
+    background: #6863e1;
+}
+.c_purp {
+    color: #6863e1;
+}
+/*Colors*/
+/*---------------------------------------------*/
+/*Positions*/
+.z1 {
+    z-index: 1;
+}
+.pos_rel {
+    position: relative;
+}
+.pos_abs {
+    position: absolute;
+}
+.flo_btn0 {
+    bottom: 0;
+}
+.flo_btn50 {
+    bottom: 50px;
+}
+.lft20pr{
+    left: 20%;
+}
+.lft10pr{
+    left: 10%;
+}
+.top25pr {
+    top: 25%;
+}
+.top5pr {
+    top: 5%;
+}
+.rht0pr{
+    right: 0;
+}
+
+.cg20 {
+    column-gap: 20px;
+}
+.rg20 {
+    row-gap: 20px;
+}
+.m10 {
+    margin: 10px;
+}
+/*Positions*/
+/*---------------------------------------------*/
+/*Flex*/
+.df{
+    display: flex;
+}
+.jcc{
+    justify-content: center;
+}
+
+/*Flex*/
+/*---------------------------------------------*/
+
+/*Others*/
+.main {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
